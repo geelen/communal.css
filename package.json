@@ -12,6 +12,8 @@
     "gulp-load-plugins": "~0.5.2",
     "gulp-autoprefixer": "0.0.7",
     "gulp": "~3.8.2",
-    "gulp-sass": "~0.7.2"
+    "gulp-sass": "~0.7.2",
+    "gulp-plumber": "~0.6.3",
+    "gulp-util": "~2.2.17"
   }
 }
