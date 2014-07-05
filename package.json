@@ -14,6 +14,8 @@
     "gulp": "~3.8.2",
     "gulp-sass": "~0.7.2",
     "gulp-plumber": "~0.6.3",
-    "gulp-util": "~2.2.17"
+    "gulp-util": "~2.2.17",
+    "gulp-csso": "~0.2.9",
+    "gulp-rename": "~1.2.0"
   }
 }
